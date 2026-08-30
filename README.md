@@ -19,15 +19,6 @@
     Current status: shipping software and mostly just suffering academically.
   </p>
 
-  <p>
-    <a href="https://www.yousofabouhalawa.com">Website</a> ·
-    <a href="mailto:me@yousofabouhalawa.com">Email</a> ·
-    <a href="https://www.linkedin.com/in/yousof-abouhalawa-355522288/">LinkedIn</a> ·
-    <a href="https://x.com/yabouhalawa">X</a> ·
-    <a href="https://bsky.app/profile/yousofabouhalawa.com">Bluesky</a> ·
-    <a href="https://www.youtube.com/@YousofAbouhalawa">YouTube</a> ·
-    <a href="https://www.upwork.com/freelancers/~01a42c83d0a2ef1684">Upwork</a>
-  </p>
 </div>
 
 ---
