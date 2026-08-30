@@ -1,10 +1,10 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="360" fill="#111111"/>
-  <g opacity="0.22" stroke="#F4F4F8" stroke-width="2">
-    <path d="M80 300H1120"/>
-    <path d="M80 72H1120"/>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="320" fill="#111111"/>
+  <g opacity="0.18" stroke="#F4F4F8" stroke-width="2">
+    <path d="M80 266H1120"/>
+    <path d="M80 66H1120"/>
   </g>
-  <g transform="translate(110 58) scale(2.2)" shape-rendering="crispEdges">
+  <g transform="translate(120 84) scale(1.75)" shape-rendering="crispEdges">
     <rect x="0" y="16" width="32" height="4" fill="#F4F4F8"/>
     <rect x="0" y="31" width="32" height="4" fill="#F4F4F8"/>
     <rect x="0" y="0" width="4" height="18" fill="#FE4A49"/>
@@ -13,16 +13,11 @@
     <rect x="28" y="1" width="4" height="51" fill="#F4F4F8"/>
     <rect x="14" y="32" width="4" height="48" fill="#F4F4F8"/>
   </g>
-  <g transform="translate(245 92)">
+  <g transform="translate(240 94)">
     <text x="0" y="58" fill="#F4F4F8" font-family="Akatab, Arial, sans-serif" font-size="56" font-weight="400" letter-spacing="-1">Yousof Abouhalawa</text>
     <rect x="0" y="90" width="150" height="10" fill="#FED766"/>
     <rect x="150" y="90" width="150" height="10" fill="#FE4A49"/>
     <rect x="300" y="90" width="150" height="10" fill="#2AB7CA"/>
     <text x="0" y="148" fill="#F4F4F8" font-family="IBM Plex Mono, Menlo, Consolas, monospace" font-size="25" font-weight="700">Full Stack Developer specializing in e-commerce.</text>
-    <text x="0" y="196" fill="#BDBDC7" font-family="IBM Plex Mono, Menlo, Consolas, monospace" font-size="18" font-weight="600">TypeScript · Next.js · Medusa.js · NestJS · React Native</text>
-  </g>
-  <g transform="translate(955 88)" stroke="#F4F4F8" stroke-width="3">
-    <rect x="0" y="0" width="150" height="96" fill="none"/>
-    <path d="M0 0L150 96M150 0L0 96"/>
   </g>
 </svg>
