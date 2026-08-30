@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner.svg">
     <img src="./assets/profile-banner.svg" alt="Yousof Abouhalawa - Full Stack Developer specializing in e-commerce" width="100%">
   </picture>
 
