@@ -36,10 +36,6 @@
   </tr>
 </table>
 
-<br />
-
-<code>TypeScript</code> · <code>JavaScript</code> · <code>React</code> · <code>Next.js</code> · <code>SvelteKit</code> · <code>React Native</code> · <code>Expo</code> · <code>Medusa.js</code> · <code>Shopify</code> · <code>NestJS</code> · <code>Docker</code> · <code>Git</code>
-
 </div>
 
 ---
